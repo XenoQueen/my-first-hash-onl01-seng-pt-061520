@@ -1,7 +1,8 @@
 def my_hash
   kaiju_hash = {
     "name" => "King Ghidorah",
-    "type" => ""
+    "type" => "alpha",
+    "origin" => "unknown"
   }
 end
 
