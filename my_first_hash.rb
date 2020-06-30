@@ -4,6 +4,7 @@ def my_hash
     "type" => "alpha",
     "origin" => "unknown"
   }
+  kaiju_hash
 end
 
 
