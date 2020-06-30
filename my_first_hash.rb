@@ -9,7 +9,7 @@ end
 
 
 def shipping_manifest
-  
+  manifest_hash
 end
 
 def retrieval
