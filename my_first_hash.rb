@@ -1,5 +1,7 @@
 def my_hash
-  kaiju_hash = 
+  kaiju_hash = {
+    
+  }
 end
 
 
