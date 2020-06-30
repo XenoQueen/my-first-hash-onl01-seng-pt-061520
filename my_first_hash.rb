@@ -1,6 +1,7 @@
 def my_hash
   kaiju_hash = {
-    "name" = "King Ghidorah"
+    "name" => "King Ghidorah"
+    
   }
 end
 
